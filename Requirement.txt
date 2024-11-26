@@ -1,0 +1,14 @@
+streamlit
+folium
+geopandas
+streamlit-folium
+streamlit_lottie
+json
+GDAL
+branca.colormap
+numpy
+selenium
+rasterio
+leafmap
+streamlit pillow rasterio
+
