@@ -1,6 +1,4 @@
-Certainly! Below is the `README` file in plain text format using markup, which can be saved as a `.txt` file.
 
-```
 # Climat Maroc - Analytical Dashboard for Temperature and Humidity Analysis
 
 ## Overview
