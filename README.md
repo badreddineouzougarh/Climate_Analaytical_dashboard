@@ -86,9 +86,3 @@ You can further customize this app by modifying the code and adding new features
 
 Feel free to fork the repository, submit issues, and create pull requests. We welcome any improvements or contributions to enhance the app's functionality.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
-
-You can save this as a `.txt` file, and it will be formatted in a readable markdown-like structure for documentation.
